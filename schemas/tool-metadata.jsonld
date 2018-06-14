@@ -1,0 +1,9 @@
+{
+    "@context": {
+        "clarin": "https://github.com/CLARIAH/tool-metadata",
+        "researchDomain": { "@id": "clarin:researchDomain" },
+        "linguisticSubject": { "@id": "clarin:linguisticSubject" },
+        "researchPhase": { "@id": "clarin:researchPhase" },
+        "toolTask": { "@id": "clarin:toolTask" }
+    }
+}
